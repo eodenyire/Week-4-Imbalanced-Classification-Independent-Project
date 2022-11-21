@@ -21,20 +21,21 @@ fixing class imbalance. Use the training set to pick the best parameters. Train
 different models on training and validation sets. Find the best one. Briefly
 describe your findings.
 4. Perform the final testing.
-Data description
-● Dataset URL (CSV File): https://bit.ly/2XZK7Bo
+
+**Data description**
+a) Dataset URL (CSV File): https://bit.ly/2XZK7Bo 
 Data description
 ● Features
-○ RowNumber — data string index
-○ CustomerId — unique customer identifier
-○ Surname — surname
-○ CreditScore — credit score
-○ Geography — country of residence
-○ Gender — gender
-○ Age — age
-○ Tenure — period of maturation for a customer’s fixed deposit (years)
-○ Balance — account balance
-○ NumOfProducts — number of banking products used by the customer
+i.   RowNumber — data string index
+ii.  CustomerId — unique customer identifier
+iii. Surname — surname
+iv.  CreditScore — credit score
+v.   Geography — country of residence
+vi.  Gender — gender
+vii. Age — age
+viii.Tenure — period of maturation for a customer’s fixed deposit (years)
+ix.  Balance — account balance
+x.   NumOfProducts — number of banking products used by the customer
 ○ HasCrCard — customer has a credit card
 ○ IsActiveMember — customer’s activeness
 ○ EstimatedSalary — estimated salary
