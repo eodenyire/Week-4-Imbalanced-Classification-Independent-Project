@@ -24,38 +24,3 @@ describe your findings.
 
 **Data description**
 a) Dataset URL (CSV File): https://bit.ly/2XZK7Bo 
-Data description
-● Features
-i.   RowNumber — data string index
-ii.  CustomerId — unique customer identifier
-iii. Surname — surname
-iv.  CreditScore — credit score
-v.   Geography — country of residence
-vi.  Gender — gender
-vii. Age — age
-viii.Tenure — period of maturation for a customer’s fixed deposit (years)
-ix.  Balance — account balance
-x.   NumOfProducts — number of banking products used by the customer
-○ HasCrCard — customer has a credit card
-○ IsActiveMember — customer’s activeness
-○ EstimatedSalary — estimated salary
-● Target
-○ Exited — сustomer has left
-Project evaluation
-We’ve put together the evaluation criteria for the project. Read this carefully before
-moving on to the task.
-● How did you prepare the data for training? Have you processed all of the feature
-types?
-● Have you explained the preprocessing steps well enough?
-● How did you investigate the balance of classes?
-● Did you study the model without taking into account the imbalance of classes?
-● What are your findings of the task research?
-● Have you correctly split the data into sets?
-● How have you worked with the imbalance of classes?
-● Did you use at least two techniques for imbalance fixing?
-● Have you performed the model training, validation, and final testing correctly?
-● How high is your F1 score?
-● Did you examine the AUC-ROC values?
-● Have you kept to the project structure and kept the code neat?
-You can use the CRISP-DM methodology that we’ve used in the past, whose approach
-will help you address the above questions
